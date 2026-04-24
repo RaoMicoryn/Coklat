@@ -1,70 +1,47 @@
-<div align="center">
+<svg width="560" height="80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Georgia', serif;
+      font-size: 42px;
+      font-weight: 300;
+      fill: #1a1714;
+      letter-spacing: 0.3em;
+    }
+    .sub {
+      font-family: 'Courier New', monospace;
+      font-size: 13px;
+      fill: #9a9087;
+      letter-spacing: 0.15em;
+    }
+    .cursor {
+      fill: #c9a99a;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
  
-# ✨ hey, i'm kyomi! ✨
+    .char { opacity: 0; }
+    .c1  { animation: appear 0.1s 0.3s forwards; }
+    .c2  { animation: appear 0.1s 0.5s forwards; }
+    .c3  { animation: appear 0.1s 0.7s forwards; }
+    .c4  { animation: appear 0.1s 0.9s forwards; }
+    .c5  { animation: appear 0.1s 1.1s forwards; }
  
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=435&lines=developer+%F0%9F%92%BB;student+%F0%9F%8C%B8;builder+of+cool+things+%E2%9C%A8)
+    .sub-text { opacity: 0; animation: fadein 0.8s 1.8s forwards; }
  
-<img src="https://komarev.com/ghpvc/?username=kyomi&color=ff6ec7&style=flat-square&label=visitors" />
+    @keyframes appear { to { opacity: 1; } }
+    @keyframes fadein { to { opacity: 1; } }
+  </style>
  
-</div>
+  <rect width="560" height="80" fill="#f9f6f1" rx="8"/>
  
----
+  <text y="52" x="28">
+    <tspan class="text char c1">k</tspan><tspan class="text char c2">y</tspan><tspan class="text char c3">o</tspan><tspan class="text char c4">m</tspan><tspan class="text char c5">i</tspan>
+    <tspan class="cursor" font-size="38" dy="2"> |</tspan>
+  </text>
  
-## 🌸 about me
+  <text x="30" y="72" class="sub sub-text">pure beauty, found in simple things.</text>
+</svg>
  
-```js
-const kyomi = {
-  role     : ["developer 💻", "student 🎓"],
-  mood     : "always building something new ✨",
-  currently: "working on cool projects 🚀",
-  funFact  : "debug first, panic later 🐛"
-};
-```
- 
----
- 
-## 🚀 my projects
- 
-### 🛍️ Nusantara Market
-> **Belanja Produk Lokal Terbaik**
- 
-A marketplace platform celebrating the best of local Indonesian products. Supporting local businesses and making it easy to discover authentic nusantara goods! 🌺
- 
----
- 
-### 🔧 projek1
-> *coming soon / in progress* ⚙️
- 
-Stay tuned — something cool is in the works! 👀
- 
----
- 
-## 🌐 find me around the web
- 
-<div align="center">
- 
-[![GitHub](https://img.shields.io/badge/GitHub-kyomii-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaoMicoryn)
-[![Instagram](https://img.shields.io/badge/Instagram-kyomi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/honestly.webe/)
-[![Discord](https://img.shields.io/badge/Discord-kyomi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yuuzeka_)
- 
-</div>
- 
----
- 
-## 💖 fun stuff
- 
-<div align="center">
- 
-![](https://github-readme-stats.vercel.app/api?username=RaoMicoryn&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
- 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RaoMicoryn&theme=radical&hide_border=true&background=0d1117)
- 
-</div>
- 
----
- 
-<div align="center">
- 
-*thanks for stopping by! drop a ⭐ if you like what you see 🌸*
- 
-</div>
