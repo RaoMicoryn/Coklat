@@ -1,7 +1,4 @@
-# Kyomi
- 
-> A short, punchy tagline about what you do or build.
- 
+# Kyomi 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaoMicoryn.RaoMicoryn&style=flat-square&color=FF6EC7)
  
 </div>
