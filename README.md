@@ -5,18 +5,11 @@
  
 > A short, punchy tagline about what you do or build.
  
-[![GitHub followers](https://img.shields.io/github/followers/RaoMicoryn?style=flat-square&color=FF6EC7)](https://github.com/RaoMicoryn) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RaoMicoryn.RaoMicoryn&style=flat-square&color=FF6EC7)
+ 
 </div>
 ---
- 
-## 🚀 About Me
- 
-- 🔭 Currently working on **something awesome**
-- 🌱 Learning **new things every day**
-- 💬 Ask me about **your topics here**
-- 📫 Reach me at **your@email.com**
-## 🛠 Tech Stack
- 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -27,3 +20,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaoMicoryn&show_icons=true&theme=github_dark&hide_border=true)
  
 </div>
+ 
