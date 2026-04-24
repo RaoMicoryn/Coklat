@@ -1,47 +1,29 @@
-<svg width="560" height="80" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .text {
-      font-family: 'Georgia', serif;
-      font-size: 42px;
-      font-weight: 300;
-      fill: #1a1714;
-      letter-spacing: 0.3em;
-    }
-    .sub {
-      font-family: 'Courier New', monospace;
-      font-size: 13px;
-      fill: #9a9087;
-      letter-spacing: 0.15em;
-    }
-    .cursor {
-      fill: #c9a99a;
-      animation: blink 1s step-end infinite;
-    }
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
+<div align="center">
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6EC7&center=true&vCenter=true&width=435&lines=developer+%F0%9F%92%BB;student+%F0%9F%8C%B8;builder+of+cool+things+%E2%9C%A8)
  
-    .char { opacity: 0; }
-    .c1  { animation: appear 0.1s 0.3s forwards; }
-    .c2  { animation: appear 0.1s 0.5s forwards; }
-    .c3  { animation: appear 0.1s 0.7s forwards; }
-    .c4  { animation: appear 0.1s 0.9s forwards; }
-    .c5  { animation: appear 0.1s 1.1s forwards; }
+# Kyomi
  
-    .sub-text { opacity: 0; animation: fadein 0.8s 1.8s forwards; }
+> A short, punchy tagline about what you do or build.
  
-    @keyframes appear { to { opacity: 1; } }
-    @keyframes fadein { to { opacity: 1; } }
-  </style>
+[![GitHub followers](https://img.shields.io/github/followers/RaoMicoryn?style=flat-square&color=FF6EC7)](https://github.com/RaoMicoryn) 
+</div>
+---
  
-  <rect width="560" height="80" fill="#f9f6f1" rx="8"/>
+## 🚀 About Me
  
-  <text y="52" x="28">
-    <tspan class="text char c1">k</tspan><tspan class="text char c2">y</tspan><tspan class="text char c3">o</tspan><tspan class="text char c4">m</tspan><tspan class="text char c5">i</tspan>
-    <tspan class="cursor" font-size="38" dy="2"> |</tspan>
-  </text>
+- 🔭 Currently working on **something awesome**
+- 🌱 Learning **new things every day**
+- 💬 Ask me about **your topics here**
+- 📫 Reach me at **your@email.com**
+## 🛠 Tech Stack
  
-  <text x="30" y="72" class="sub sub-text">pure beauty, found in simple things.</text>
-</svg>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
  
+## 📊 GitHub Stats
+ 
+<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaoMicoryn&show_icons=true&theme=github_dark&hide_border=true)
+ 
+</div>
